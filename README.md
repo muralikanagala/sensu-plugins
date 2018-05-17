@@ -29,7 +29,7 @@ Sensu CLI Plugins and Scripts
  avoid the check resolving itself if it does not see any change in restart counts
  in subsequent runs.
 
-6) network_interface_monitor:
+6) network_interface_monitor:  
  Sensu plugin to check the status of network interfaces on a Ubuntu host.
  Tested on Ubuntu 14.04 LTS.
  Can check whether an interface is up, its physical link state and mtu.
